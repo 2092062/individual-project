@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187995873722",
+    "project_id": "databasefirestorelogin-780c6",
+    "storage_bucket": "databasefirestorelogin-780c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187995873722:android:ef662793ce92d58fc4fd83",
+        "android_client_info": {
+          "package_name": "com.databasefirestorelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187995873722-dm1lpq5aspn0bkebujdmp1hbt63omkmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHlP2Ms9T0V7MYKuKwvp1Yx2mlOabRJEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187995873722-dm1lpq5aspn0bkebujdmp1hbt63omkmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
